@@ -1,7 +1,7 @@
 
 # WanAndroid_Flutter
 玩安卓 Flutter 版本
-[Demo下载链接,修改后缀为apk](https://github.com/MaskEgo/WanAndroid_Flutter/blob/master/lib/wanandroid.app)
+ * [Demo下载链接,修改后缀为apk](https://github.com/MaskEgo/WanAndroid_Flutter/blob/master/lib/wanandroid.app)
 =======
 
 实现的功能
@@ -21,13 +21,12 @@
 
 用到的插件
 =======
-  * flutter_swiper: ^1.1.6
-  * dio: ^2.1.0
-  * json_annotation: ^2.0.0
-  * flutter_webview_plugin: ^0.3.3
-  * cupertino_icons: ^0.1.2
-  * shared_preferences: ^0.4.3
-  * event_bus: ^1.0.1
+  * flutter_swiper
+  * dio
+  * json_annotation
+  * flutter_webview_plugin
+  * shared_preferences
+  * event_bus
 
 
 
