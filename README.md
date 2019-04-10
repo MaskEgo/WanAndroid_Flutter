@@ -1,7 +1,7 @@
 
 # WanAndroid_Flutter
 玩安卓 Flutter 版本
-[下载链接](https://github.com/MaskEgo/WanAndroid_Flutter/blob/master/lib/wanandroid.app)
+[Demo下载链接,修改后缀为apk](https://github.com/MaskEgo/WanAndroid_Flutter/blob/master/lib/wanandroid.app)
 =======
 
 实现的功能
