@@ -1,21 +1,11 @@
-<<<<<<< HEAD
+
 # WanAndroid_Flutter
 玩安卓 Flutter 版本
 =======
-# wanandroid_flutter
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
->>>>>>> init files
+#效果图
+![image](https://github.com/MaskEgo/WanAndroid_Flutter/blob/master/lib/pic/pic1.png)
+![image](https://github.com/MaskEgo/WanAndroid_Flutter/blob/master/lib/pic/pic2.png)
+![image](https://github.com/MaskEgo/WanAndroid_Flutter/blob/master/lib/pic/pic3.png)
+![image](https://github.com/MaskEgo/WanAndroid_Flutter/blob/master/lib/pic/pic4.png)
+![image](https://github.com/MaskEgo/WanAndroid_Flutter/blob/master/lib/pic/pic5.png)
